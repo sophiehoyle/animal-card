@@ -1,0 +1,54 @@
+/* card outline and padding */
+.card {
+    background-color: #CFD0D2;
+    background-image: url("snowflakes.png");
+    border: 3px groove silver;
+    border-radius: 5px;
+    padding: 1.5px 1em 1.5em 1em;
+    width: 300px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.1);
+}
+/* Info box border */
+.info-box {
+    width: 300px;
+    border: 2px solid #B3B3B3;
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: #f5f3e6;
+}
+/* image size and border */
+.image {
+    width: 300px;
+    border: 2px solid #B3B3B3;
+    border-radius: 5px;
+}
+/* fact style */
+.interesting-fact {
+    text-align: center;
+    font-style: italic;
+    color: grey;
+}
+/* top heading style */
+h1 {
+    text-align: center;
+    color: #433F40;
+    font-size: 30px;
+    font-family:garamond;Helvetica;
+    border: 2px solid #B3B3B3;
+    border-radius: 5px;
+}
+/* main font style */
+body {
+    font-family: Helvetica;
+    text-align: center;
+}
+/* list style */
+ul {
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+}
+/* Span style */
+span {
+    font-weight: bold;
+}
